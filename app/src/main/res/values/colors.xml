@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="userMessage">#FF4081</color>
+    <color name="assistantMessage">#3F51B5</color>
+    <color name="background_grey">#F5F5F5</color>
+</resources>

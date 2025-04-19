@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">小小智</string>
+    <string name="input_hint">输入消息...😒</string>
+    <string name="send">发射😍</string>
+    <string name="title_activity_settings">设置</string>
+    <string name="menu">new chat</string>
+    <string name="settings">设置</string>
+</resources>
